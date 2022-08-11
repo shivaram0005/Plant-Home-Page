@@ -3,7 +3,7 @@
 ### By Thalloju Shivaram
 
 
-## 🔗Live Link -: [Plant Home Page ]()
+## 🔗Live Link -: [Plant Home Page ](https://planthopage.netlify.app/)
  
 
 ---
